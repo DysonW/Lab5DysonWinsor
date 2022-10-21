@@ -1,5 +1,4 @@
-﻿
-Console.Clear();1
+﻿Console.Clear();
 
 void CatCall()
 {
